@@ -43,14 +43,14 @@ global.alivepic = "https://i.ibb.co/YX4fy4X/20220409-103921.jpg" //you logo key
 
 
 global.ownername = " sapsaraprabhu🎯 " //ur owner name
-global.owner = ['94774579505','']
-global.premium = ['94774579505','94774579505']
-global.botname = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 𝙼⃝𝙳'
-global.ownername = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 𝙼⃝𝙳'
+global.owner = ['94760020233','']
+global.premium = ['94760020233','94760020233']
+global.botname = '𝚜𝚊𝚙𝚜𝚊𝚛𝚊 𝚙𝚛𝚊𝚋𝚑𝚞 🌹'
+global.ownername = '𝚂𝚊𝚙𝚜𝚊𝚛𝚊 𝙿𝚛𝚊𝚋𝚑𝚞🎯'
 global.group1 = 'https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX'
 global.group2 = 'https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX'
-global.packname = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 𝙼⃝𝙳'
-global.ytchannel = 'https://youtube.com/channel/UC0qvb9lWJf2ItJACMIMzabA'
+global.packname = '🌹𝚂𝚊𝚙𝚜𝚊𝚛𝚊 𝚙𝚛𝚊𝚋𝚑𝚞🍃'
+global.ytchannel = 'https://youtu.be/GC6dxTxXOSo'
 global.monayawal = '100000'
 global.darahawal = '100'
 global.besiAwal = '15'
@@ -71,7 +71,7 @@ global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.docu
 global.f4 = 'application/zip'
 global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
-global.author = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 𝙼⃝𝙳'
+global.author = '𝚂𝚊𝚙𝚜𝚊𝚛𝚊 𝚙𝚛𝚊𝚋𝚑𝚞🍃'
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
